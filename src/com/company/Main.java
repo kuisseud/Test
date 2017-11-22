@@ -9,6 +9,6 @@ public class Main {
 
         ///Test first commit du proket.
         // La malchance change avec wilfried.
-        
+
     }
 }
